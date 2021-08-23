@@ -6,3 +6,4 @@
             #nums_hash[num] = i
 
 print("わけがわからない")
+print("commitできるようになってめっちゃくちゃうれしい")
