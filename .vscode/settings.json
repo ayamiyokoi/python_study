@@ -1,0 +1,13 @@
+{
+  //コード補完の設定
+
+"ruby.codeCompletion": "rcodetools",
+
+//補完や定義ジャンプなどの設定
+
+"ruby.intellisense": "rubyLocate",
+
+//構文チェックの設定
+
+"ruby.useLanguageServer": true
+}
