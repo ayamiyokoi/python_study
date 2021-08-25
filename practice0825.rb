@@ -27,3 +27,24 @@ puts "私は" + "にんじゃわんこです"
 
 # 文字列の「38」と「19」を連結して出力してください
 puts "38" + "19"
+
+puts "Q5"
+# 変数nameに、文字列「にんじゃわんこ」を代入してください
+name = "にんじゃわんこ"
+
+# 変数nameを出力してください
+
+puts name
+
+puts "Q6"
+text = "プログラミングを学ぼう"
+
+# 文字列「Progateで」と変数textを連結して、出力してください
+puts "progateで" + text
+
+length = 8
+width = 9
+
+# 変数lengthと変数widthを掛けて出力してください
+
+puts length*width
